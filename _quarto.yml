@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "template5"
+  title: "MSc. Course on Data-driven Communication: Content Management & Visualization for Marketing & Communication Sciences" 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Tab2.qmd
+        text: Tab two
+        
+        
 
 format:
   html:
